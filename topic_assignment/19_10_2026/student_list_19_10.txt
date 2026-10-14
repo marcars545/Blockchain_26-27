@@ -33,6 +33,7 @@
 | Sabatini Gioacchino                | gioacchino.sabatini@you.unipa.it                              |
 | Sammartano Giampiero               | giampiero.sammartano@community.unipa.it                       |
 | Sanfilippo Ruben                   | rubensanfilippo2@gmail.com                                    |
+| Sangiorgio Amedeo Nunzio           | amedeonunzio.sangiorgio@community.unipa.it                    |
 | Sansonini Gabriele                 | gabrielesansonini@gmail.com                                   |
 | Sardina Salvatore                  | salvatoresardina2975@gmai.com                                 |
 | Scalabrino Gianluca                | gianluca.scalabrino@community.unipa.it                        |
@@ -46,6 +47,6 @@
 | Vergara Ivan                       | vergara.ivan03@gmail.com                                      |
 | Youssefpour Pouya                  | pooyayoosefpoor@gmail.com                                     |
 +------------------------------------+---------------------------------------------------------------+
-| Total: 44 students                                                                                 |
+| Total: 45 students                                                                                 |
 | Last Update: 10/14/2026                                                                            |
 +----------------------------------------------------------------------------------------------------+
