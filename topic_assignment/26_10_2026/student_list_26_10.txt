@@ -49,6 +49,6 @@
 | Vergara Ivan                       | vergara.ivan03@gmail.com                                      | Topic 1 |
 | Youssefpour Pouya                  | pooyayoosefpoor@gmail.com                                     | Topic 4 |
 +------------------------------------+---------------------------------------------------------------+---------+
-| Total: 47 students (Topic 1: 24, Topic 4: 23)                                                              |
+| Total: 47 students (Topic 1: 24, Topic 4: 23)                                                                |
 | Last Update: 19/10/2026                                                                                      |
 +--------------------------------------------------------------------------------------------------------------+
