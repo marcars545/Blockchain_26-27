@@ -6,23 +6,28 @@
 | Barone Roberta                     | roberta.barone03@community.unipa.it                           | Topic 4 |
 | Barraco Giorgia                    | barraco.giorgia04@gmail.com                                   | Topic 1 |
 | Biagini Alessandro                 | alessandro.biagini@community.unipa.it                         | Topic 1 |
+| Caruso Alessandro                  | alessandro.caruso03@community.unipa.it                        | Topic 4 |
 | Catania Antonio                    | antoct04@gmail.com                                            | Topic 4 |
 | Colucci Giulia                     | giuliacolucci388@gmail.com                                    | Topic 1 |
 | Cragnotti Alessio                  | alessiocragnotti@icloud.com                                   | Topic 4 |
 | Curto Annalisa                     | annalisacurto60@gmail.com                                     | Topic 1 |
 | D'Angelo Gabriele Pio              | gabrieledangelo94@gmail.com                                   | Topic 4 |
+| Di Meo Giovanna Maria              | giovannamaria.dimeo@you.unipa.it                              | Topic 1 |
 | Di Salvo Giuseppe                  | giuseppe.disalvo18@community.unipa.it                         | Topic 1 |
 | Falletta Riccardo                  | tatofalletta14@gmail.com                                      | Topic 4 |
 | Faraone Gabriele                   | gabriele.faraone.gf@gmail.com                                 | Topic 1 |
 | Gagliano Alessio                   | alessiogagliano43@gmail.com                                   | Topic 4 |
+| Gennaro Arianna                    | arianna.gennaro@community.unipa.it                            | Topic 4 |
 | Gentile Luca                       | lucagentile0704@gmail.com                                     | Topic 1 |
 | Geraci Stefano                     | geraci.stefano03@gmail.com                                    | Topic 1 |
+| Graffeo Luigi                      | Luigi.graffeo@community.unipa.it                              | Topic 1 |
 | Guzzardi Alessandro                | alessandroguzzardi2002@gmail.com                              | Topic 4 |
 | Hamta Laya                         | hamta.laya@gmail.com                                          | Topic 1 |
 | Ingoglia Francesco                 | franciingoglia36@gmail.com                                    | Topic 4 |
 | Leonardi Alberto                   | alberto.leonardi02@community.unipa.it                         | Topic 1 |
 | Lo Iacono Marta                    | martaloiacono24@gmail.com                                     | Topic 4 |
 | Maggio Sofia                       | sofia.maggio04@you.unipa.it                                   | Topic 4 |
+| Maniscalco Daniele                 | daniele.maniscalco02@community.unipa.it                       | Topic 4 |
 | Mazaheri Shourabi Mashad           | mazaheri.mahshad@gmail.com                                    | Topic 1 |
 | Nastasi Simona                     | simonanastasid@gmail.com                                      | Topic 4 |
 | Panettiere Gianpaolo               | giovannipaolo.panettiere@community.unipa.it                   | Topic 1 |
@@ -32,6 +37,7 @@
 | Petrantoni Mattia                  | mattia.petrantoni@community.unipa.it                          | Topic 4 |
 | Pilato Federica                    | federicapilato1@gmail.com                                     | Topic 1 |
 | Principato Valerio                 | valerio.principato@community.unipa.it                         | Topic 4 |
+| Pulia Andre                        | andrea.pulia@community.unipa.it                               | Topic 1 |
 | Sabatini Gioacchino                | gioacchino.sabatini@you.unipa.it                              | Topic 1 |
 | Sammartano Giampiero               | giampiero.sammartano@community.unipa.it                       | Topic 4 |
 | Sanfilippo Ruben                   | rubensanfilippo2@gmail.com                                    | Topic 4 |
@@ -49,6 +55,6 @@
 | Vergara Ivan                       | vergara.ivan03@gmail.com                                      | Topic 1 |
 | Youssefpour Pouya                  | pooyayoosefpoor@gmail.com                                     | Topic 4 |
 +------------------------------------+---------------------------------------------------------------+---------+
-| Total: 47 students (Topic 1: 24, Topic 4: 23)                                                                |
-| Last Update: 19/10/2026                                                                                      |
+| Total: 53 students (Topic 1: 27, Topic 4: 26)                                                                |
+| Last Update: 22/10/2026                                                                                      |
 +--------------------------------------------------------------------------------------------------------------+

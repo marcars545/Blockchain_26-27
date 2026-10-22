@@ -1,0 +1,21 @@
++-------------------+--------------------+-------------------------------------------------------------------------------+
+| EXAM TYPE         | DATE & TIME        | DETAILS                                                                       |
++-------------------+--------------------+-------------------------------------------------------------------------------+
+| MIDTERM EXAM      | Nov 9 @ 2:00 PM    | - Location: Grasso Classroom (room number TBC)                                |
+|                   |                    | - Format: Answering questions provided by the professor in class              |
+|                   |                    | - Further details are not yet available                                       |
+|                   |                    | - Midterm assessment for evaluating initial subject comprehension             |
+|                   |                    | - Attendance and participation instructions to be defined in class            |
++-------------------+--------------------+-------------------------------------------------------------------------------+
+| FINAL TERM EXAM   | Dec 22 (TBC)       | - Date to be officially confirmed                                             |
+|                   |                    | - Status: No further information is available yet                             |
+|                   |                    |                                                                               |
+|                   |                    |                                                                               |
+|                   |                    |                                                                               |
++-------------------+--------------------+-------------------------------------------------------------------------------+
+| FIRST ORAL        | Jan 18, 2027       | - Official first oral exam session                                            |
+|                   |                    | - Optional project can contribute up to 1/30 of the final grade               |
+|                   |                    | - Final evaluation and grade registration session                             |
+|                   |                    |                                                                               |
+|                   |                    |                                                                               |
++-------------------+--------------------+-------------------------------------------------------------------------------+
