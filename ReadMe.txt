@@ -1,4 +1,5 @@
 # Blockchain_26-27
+
 This repository contains the teaching materials, course announcements, and other resources related to the course.
 
 +------------------------------------+---------------------------------------------------------------+
@@ -6,6 +7,7 @@ This repository contains the teaching materials, course announcements, and other
 +------------------------------------+---------------------------------------------------------------+
 | Alba Giuseppe                      | giuseppe.alba05@community.unipa.it                            |
 | Amato Lorenzo                      | lorenzoamato1117@gmail.com                                    |
+| Arcarisi Biagio                    | biagio.arcarisi@community.unipa.it                            |
 | Barone Roberta                     | roberta.barone03@community.unipa.it                           |
 | Barraco Giorgia                    | barraco.giorgia04@gmail.com                                   |
 | Biagini Alessandro                 | alessandro.biagini@community.unipa.it                         |
@@ -13,6 +15,7 @@ This repository contains the teaching materials, course announcements, and other
 | Catania Antonio                    | antoct04@gmail.com                                            |
 | Colucci Giulia                     | giuliacolucci388@gmail.com                                    |
 | Cragnotti Alessio                  | alessiocragnotti@icloud.com                                   |
+| Crapa Manfredi                     | manfredi.crapa@community.unipa.it                             |
 | Curto Annalisa                     | annalisacurto60@gmail.com                                     |
 | D'Angelo Gabriele Pio              | gabrieledangelo94@gmail.com                                   |
 | Di Meo Giovanna Maria              | giovannamaria.dimeo@you.unipa.it                              |
@@ -39,6 +42,7 @@ This repository contains the teaching materials, course announcements, and other
 | Perricone Guido                    | guidoantoninopio@gmail.com                                    |
 | Petrantoni Mattia                  | mattia.petrantoni@community.unipa.it                          |
 | Pilato Federica                    | federicapilato1@gmail.com                                     |
+| Prainito Benedetta                 | benedetta.prainito@community.unipa.it                         |
 | Principato Valerio                 | valerio.principato@community.unipa.it                         |
 | Pulia Andre                        | andrea.pulia@community.unipa.it                               |
 | Sabatini Gioacchino                | gioacchino.sabatini@you.unipa.it                              |
@@ -56,8 +60,9 @@ This repository contains the teaching materials, course announcements, and other
 | Tumbarello Ilaria                  | tumbarelloilaria04@gmail.com                                  |
 | Valenti Gaspare                    | gaspare.v94@gmail.com                                         |
 | Vergara Ivan                       | vergara.ivan03@gmail.com                                      |
+| Vullo Salvatore                    | salvatore.vullo06@community.unipa.it                          |
 | Youssefpour Pouya                  | pooyayoosefpoor@gmail.com                                     |
 +------------------------------------+---------------------------------------------------------------+
-| Total: 53 students                                                                                 |
-| Last Update: 22/10/2026                                                                            |
+| Total: 57 students                                                                                 |
+| Last Update: 24/10/2026                                                                            |
 +----------------------------------------------------------------------------------------------------+

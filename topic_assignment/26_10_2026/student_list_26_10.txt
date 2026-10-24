@@ -3,6 +3,7 @@
 +------------------------------------+---------------------------------------------------------------+---------+
 | Alba Giuseppe                      | giuseppe.alba05@community.unipa.it                            | Topic 1 |
 | Amato Lorenzo                      | lorenzoamato1117@gmail.com                                    | Topic 4 |
+| Arcarisi Biagio                    | biagio.arcarisi@community.unipa.it                            | Topic 1 |
 | Barone Roberta                     | roberta.barone03@community.unipa.it                           | Topic 4 |
 | Barraco Giorgia                    | barraco.giorgia04@gmail.com                                   | Topic 1 |
 | Biagini Alessandro                 | alessandro.biagini@community.unipa.it                         | Topic 1 |
@@ -10,6 +11,7 @@
 | Catania Antonio                    | antoct04@gmail.com                                            | Topic 4 |
 | Colucci Giulia                     | giuliacolucci388@gmail.com                                    | Topic 1 |
 | Cragnotti Alessio                  | alessiocragnotti@icloud.com                                   | Topic 4 |
+| Crapa Manfredi                     | manfredi.crapa@community.unipa.it                             | Topic 4 |
 | Curto Annalisa                     | annalisacurto60@gmail.com                                     | Topic 1 |
 | D'Angelo Gabriele Pio              | gabrieledangelo94@gmail.com                                   | Topic 4 |
 | Di Meo Giovanna Maria              | giovannamaria.dimeo@you.unipa.it                              | Topic 1 |
@@ -36,6 +38,7 @@
 | Perricone Guido                    | guidoantoninopio@gmail.com                                    | Topic 1 |
 | Petrantoni Mattia                  | mattia.petrantoni@community.unipa.it                          | Topic 4 |
 | Pilato Federica                    | federicapilato1@gmail.com                                     | Topic 1 |
+| Prainito Benedetta                 | benedetta.prainito@community.unipa.it                         | Topic 1 |
 | Principato Valerio                 | valerio.principato@community.unipa.it                         | Topic 4 |
 | Pulia Andre                        | andrea.pulia@community.unipa.it                               | Topic 1 |
 | Sabatini Gioacchino                | gioacchino.sabatini@you.unipa.it                              | Topic 1 |
@@ -53,8 +56,9 @@
 | Tumbarello Ilaria                  | tumbarelloilaria04@gmail.com                                  | Topic 1 |
 | Valenti Gaspare                    | gaspare.v94@gmail.com                                         | Topic 4 |
 | Vergara Ivan                       | vergara.ivan03@gmail.com                                      | Topic 1 |
+| Vullo Salvatore                    | salvatore.vullo06@community.unipa.it                          | Topic 4 |
 | Youssefpour Pouya                  | pooyayoosefpoor@gmail.com                                     | Topic 4 |
 +------------------------------------+---------------------------------------------------------------+---------+
-| Total: 53 students (Topic 1: 27, Topic 4: 26)                                                                |
-| Last Update: 22/10/2026                                                                                      |
+| Total: 57 students (Topic 1: 29, Topic 4: 28)                                                                |
+| Last Update: 24/10/2026                                                                                      |
 +--------------------------------------------------------------------------------------------------------------+
