@@ -1,13 +1,13 @@
 +-------------------+--------------------+-------------------------------------------------------------------------------+
 | EXAM TYPE         | DATE & TIME        | DETAILS                                                                       |
 +-------------------+--------------------+-------------------------------------------------------------------------------+
-| MIDTERM EXAM      | Nov 9 @ 2:00 PM    | - Location: Grasso Classroom (room number TBC)                                |
+| MIDTERM EXAM      | Nov 9 @ 2:00 PM    | - Location: Grasso Classroom (room Grasso)                                |
 |                   |                    | - Format: Answering questions provided by the professor in class              |
 |                   |                    | - Further details are not yet available                                       |
 |                   |                    | - Midterm assessment for evaluating initial subject comprehension             |
 |                   |                    | - Attendance and participation instructions to be defined in class            |
 +-------------------+--------------------+-------------------------------------------------------------------------------+
-| FINAL TERM EXAM   | Dec 22 (TBC)       | - Date to be officially confirmed                                             |
+| FINAL TERM EXAM   | Dec 14 @ 12: AM    | - Location: Grasso Classroom (room number TBC)                                              |
 |                   |                    | - Status: No further information is available yet                             |
 |                   |                    |                                                                               |
 |                   |                    |                                                                               |
