@@ -1,19 +1,26 @@
-+-------------------+--------------------+-------------------------------------------------------------------------------+
-| EXAM TYPE         | DATE & TIME        | DETAILS                                                                       |
-+-------------------+--------------------+-------------------------------------------------------------------------------+
-| MIDTERM EXAM      | Nov 9 @ 2:00 PM    | - Location: Grasso Classroom (room Grasso)                                    |
-|                   |                    | - Format: Answering questions provided by the professor in class              |
-|                   |                    | - Midterm assessment for evaluating initial subject comprehension             |
-+-------------------+--------------------+-------------------------------------------------------------------------------+
-| FINAL TERM EXAM   | Dec 14 @ 12: AM    | - Location: Grasso Classroom (room number TBC)                                |
-|                   |                    | - Status: No further information is available yet                             |
-|                   |                    |                                                                               |
-|                   |                    |                                                                               |
-|                   |                    |                                                                               |
-+-------------------+--------------------+-------------------------------------------------------------------------------+
-| FIRST ORAL        | Jan 18, 2027       | - Official first oral exam session                                            |
-|                   |                    | - Optional project can contribute up to 1/30 of the final grade               |
-|                   |                    | - Final evaluation and grade registration session                             |
-|                   |                    |                                                                               |
-|                   |                    |                                                                               |
-+-------------------+--------------------+-------------------------------------------------------------------------------+
++-------------------+-------------------------+-------------------------------------------------------------------------------+
+| EXAM TYPE         | DATE & TIME             | DETAILS                                                                       |
++-------------------+-------------------------+-------------------------------------------------------------------------------+
+| MIDTERM EXAM      | Nov 9 @ 2:00 PM         | - Location: Grasso Classroom (room Grasso)                                    |
+|                   |                         | - Format: Answering questions provided by the professor in class              |
+|                   |                         | - Midterm assessment for evaluating initial subject comprehension             |
++-------------------+-------------------------+-------------------------------------------------------------------------------+
+| FINAL TERM EXAM   | Dec 14 @ 12: AM         | - Location: Grasso Classroom (room number TBC)                                |
+|                   |                         | - Status: No further information is available yet                             |
+|                   |                         |                                                                               |
++-------------------+-------------------------+-------------------------------------------------------------------------------+
+| FIRST ORAL        | Jan 18, 2027 @ 10:00 AM | - Location: Grasso Classroom (room Grasso)                                    |
+|                   |                         | - Official first oral exam session                                            |
+|                   |                         | - Optional project can contribute up to 1/30 of the final grade               |
+|                   |                         | - Final evaluation and grade registration session                             |
++-------------------+-------------------------+-------------------------------------------------------------------------------+
+| SECOND ORAL       | Date TBC @ 10:00 AM     | - Location: Grasso Classroom (room Grasso)                                    |
+|                   |                         | - Official second oral exam session                                           |
+|                   |                         | - Optional project can contribute up to 1/30 of the final grade               |
+|                   |                         | - Final evaluation and grade registration session                             |
++-------------------+-------------------------+-------------------------------------------------------------------------------+
+| THIRD ORAL        | Date TBC @ 10:00 AM     | - Location: Grasso Classroom (room Grasso)                                    |
+|                   |                         | - Official third oral exam session                                            |
+|                   |                         | - Optional project can contribute up to 1/30 of the final grade               |
+|                   |                         | - Final evaluation and grade registration session                             |
++-------------------+-------------------------+-------------------------------------------------------------------------------+
